@@ -1,0 +1,12 @@
+
+
+
+1 - Github 
+É uma ferramenta para armazenar projetos em repositórios
+Como clonar repositórios
+
+2- Visual Studio Code
+É uma ferramenta de leitura e desenvolvimento de códigos
+
+3 - python
+É uma linguagem de programação
